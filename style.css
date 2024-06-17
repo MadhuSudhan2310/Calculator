@@ -5,7 +5,7 @@ body {
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: blue;
+      background-color: yellow;
     }
 
     #calculator {
@@ -23,7 +23,7 @@ body {
       padding: 10px;
       font-size: 16px;
       box-sizing: border-box;
-     color: blue;
+     color: red;
     }
 
     button {
@@ -32,5 +32,5 @@ body {
       font-size: 16px;
       margin: 5px;
       cursor: pointer;
-color: red;
+color: black;
     }
