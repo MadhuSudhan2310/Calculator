@@ -1,9 +1,4 @@
-h1{
-      display: flex;
-      justify-content: center;
-       align-items: center;
-      text-align: center;
-}
+
       
 body {
       font-family: 'Arial', sans-serif;
@@ -14,7 +9,12 @@ body {
       margin: 0;
       background-color: yellow;
     }
-
+body h1{
+      display: flex;
+      justify-content: center;
+       align-items: center;
+      text-align: center;
+}
 
     #calculator {
           background-color: blue;
