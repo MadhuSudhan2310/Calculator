@@ -9,11 +9,8 @@ body {
       margin: 0;
       background-color: yellow;
     }
-body h1{
-      display: flex;
-      justify-content: center;
-       align-items: center;
-      text-align: center;
+div.a {
+  text-align: center;
 }
 
     #calculator {
