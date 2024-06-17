@@ -9,7 +9,7 @@ body {
       margin: 0;
       background-color: yellow;
     }
-div.a {
+ body div.a {
   text-align: center;
 }
 
